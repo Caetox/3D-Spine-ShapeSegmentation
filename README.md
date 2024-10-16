@@ -3,4 +3,4 @@ The 3D-Spine-ShapeSegmentation module segments vertebrae into their components: 
 The segment labels are saved in the models ScalarArray "Labels".
 
 ## Install 3DSlicer Plugin
-git clone --recurse-submodules git@github.com:Caetox/3D-Spine-ShapeSegmentation.git
+`git clone --recurse-submodules git@github.com:Caetox/3D-Spine-ShapeSegmentation.git`
